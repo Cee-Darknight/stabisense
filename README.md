@@ -1,6 +1,7 @@
 # StabiSense : A Self-Calibrating IMU-Based Micro-Scale Stabilization System with Real-Time Adaptive Control
 🕒May 24,2026
 
+---
 > Real-time seismic monitoring and adaptive calibration for vibration-sensitive environments.
 ---
 
@@ -34,7 +35,6 @@ The use of IMU-based motion detection with environmental telemetry and LSTM-base
 ---
 
 ## Features(Detailed)
-
 ### 1. Real-Time Seismic Detection
 The MPU6050’s accelerometer and gyroscope continuously collect the acceleration and gyroscope values from all three axes to detect vibrations, disturbances from movement, and seismic events in real-time.
 
