@@ -1,12 +1,7 @@
----
-
 # StabiSense : A Self-Calibrating IMU-Based Micro-Scale Stabilization System with Real-Time Adaptive Control
 🕒May 24,2026
-
 ---
-
 > Real-time seismic monitoring and adaptive calibration for vibration-sensitive environments.
-
 ---
 
 ## Acknowledgements
@@ -16,7 +11,6 @@ We would also like to thank our faculty mentor for his valuable guidance and sup
 ---
 
 ## Overview
-
 StabiSense is a high accurate seismic detection and adaptively calibrated system designed to monitor vibrations in wafer fabrication environments. This system continuously collects real-time motion data along with changes in the environment from multiple integrated sensors connected to the MYOSA ESP32 platform.
 
 The use of IMU-based motion detection with environmental telemetry and LSTM-based time series analysis enables the StabiSense to identify, classify and differentiate between normal types of vibration and seismic related vibrations before determining an event has occurred. This also provides live telemetry visualization of the data and allows storing the recorded data for future analysis and replay of the recorded data through a web-based dashboard.
