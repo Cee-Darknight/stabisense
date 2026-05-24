@@ -10,7 +10,6 @@
 ---
 
 ## Acknowledgements
-
 This project was developed as part of IEEE MYOSA 5.0 with support from Mar Baselios Institute of Technology and Science.
 We would also like to thank our faculty mentor for his valuable guidance and support during the development of StabiSense.
 
