@@ -1,3 +1,5 @@
+---
+
 # StabiSense : A Self-Calibrating IMU-Based Micro-Scale Stabilization System with Real-Time Adaptive Control
 🕒May 24,2026
 
