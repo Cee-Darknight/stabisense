@@ -1,13 +1,11 @@
-# StabiSense : A Self-Calibrating IMU-Based Micro-Scale Stabilization System with Real-Time Adaptive Control
+#StabiSense : A Self-Calibrating IMU-Based Micro-Scale Stabilization System with Real-Time Adaptive Control
 🕒May 24,2026
 
 ---
 > Real-time seismic monitoring and adaptive calibration for vibration-sensitive environments.
 ---
 
----
-
-## Acknowledgements
+# Acknowledgements
 This project was developed as part of IEEE MYOSA 5.0 with support from Mar Baselios Institute of Technology and Science.
 We would also like to thank our faculty mentor for his valuable guidance and support during the development of StabiSense.
 
