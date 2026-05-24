@@ -5,11 +5,14 @@
 > Real-time seismic monitoring and adaptive calibration for vibration-sensitive environments.
 ---
 
+
 # Acknowledgements
 This project was developed as part of IEEE MYOSA 5.0 with support from Mar Baselios Institute of Technology and Science.
 We would also like to thank our faculty mentor for his valuable guidance and support during the development of StabiSense.
 
+
 ---
+
 
 ## Overview
 StabiSense is a high accurate seismic detection and adaptively calibrated system designed to monitor vibrations in wafer fabrication environments. This system continuously collects real-time motion data along with changes in the environment from multiple integrated sensors connected to the MYOSA ESP32 platform.
@@ -24,7 +27,9 @@ The use of IMU-based motion detection with environmental telemetry and LSTM-base
 - 3D visualization of motion and orientation
 - Serial and BLE based transmission of data
 
+
 ---
+
 
 ## Demo/Examples
 
@@ -32,7 +37,9 @@ The use of IMU-based motion detection with environmental telemetry and LSTM-base
 
 ### Videos
 
+
 ---
+
 
 ## Features(Detailed)
 ### 1. Real-Time Seismic Detection
@@ -53,19 +60,27 @@ Captures the telemetry data from the sensors in real time throughout the occurre
 ### 6. 3D Motion Visualization
 A real-time, 3D motion model of the device to visually illustrate the motion of the device by way of roll and pitch data produced by the IMU sensors
 
+
 ---
+
 
 ## Usage Instructions
 
+
 ---
+
 
 ## Tech Stack
 
+
 ---
+
 
 ## Requirements / Installation
 
+
 ---
+
 
 ## File Structure
 
